@@ -18,3 +18,4 @@ Goal:
 - Understand MVC design pattern.
 - Instance variable, Class Variable, and Local variable.
 - Instance methods, Class methods.
+
